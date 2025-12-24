@@ -5,6 +5,7 @@ cython>=0.29.30
 scipy>=1.11.2
 torch>=2.1
 torchaudio
+torchcodec
 soundfile>=0.12.0
 librosa>=0.10.0
 scikit-learn>=1.3.0
